@@ -3,23 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avikshitchanda&label=Profile%20views&color=0e75b6&style=flat" alt="avikshitchanda" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avikshitchanda" alt="avikshitchanda" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/avikshitchanda" target="blank"><img src="https://img.shields.io/twitter/follow/avikshitchanda?logo=twitter&style=for-the-badge" alt="avikshitchanda" /></a> </p>
 
-- 🔭 I’m currently working on [SpendWise: Expense Tracker webapp](https://github.com/AvikshitChanda/Expense-Tracker)
+- 🔭 I’m currently working on:[SpendWise: Expense Tracker webapp](https://github.com/AvikshitChanda/Expense-Tracker)
 
-- 🌱 I’m currently learning **React Native ,Golang**
+- 🌱 I’m currently learning:**React Native ,Golang**
 
-- 👯 I’m looking to collaborate on [SpendWise: Expense Tracker webapp](https://github.com/AvikshitChanda/Expense-Tracker)
+- 👯 I’m looking to collaborate on :[SpendWise: Expense Tracker webapp](https://github.com/AvikshitChanda/Expense-Tracker)
 
-- 👨‍💻 All of my projects are available at [https://avikshitchanda.vercel.app/](https://avikshitchanda.vercel.app/)
+- 👨‍💻 All of my projects are available at:[Portfolio](https://avikshitchanda.vercel.app/)
 
-- 💬 Ask me about **Web development using the MERN stack**
+- 💬 Ask me about :**Web development using the MERN stack**
 
-- 📫 How to reach me **avikshitchanda@gmail.com**
+- 📫 How to reach me :**avikshitchanda@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KN5ynOjG1pXGqm_thqcgWYF2i3K5hOti/view?usp=sharing)
+- 📄 Know about my experiences :[Resume](https://drive.google.com/file/d/1KN5ynOjG1pXGqm_thqcgWYF2i3K5hOti/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
