@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/avikshitchanda" target="blank"><img src="https://img.shields.io/twitter/follow/avikshitchanda?logo=twitter&style=for-the-badge" alt="avikshitchanda" /></a> </p>
 
-- 🔭 I’m currently working on:[SpendWise: Expense Tracker webapp](https://github.com/AvikshitChanda/Expense-Tracker)
-
 - 👨‍💻 All of my projects are available at:[Portfolio](https://avikshitchanda.vercel.app/)
-
-- 💬 Ask me about :**Web development using the MERN stack**
 
 - 📫 How to reach me :**avikshitchanda@gmail.com**
 
