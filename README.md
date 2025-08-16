@@ -7,10 +7,6 @@
 
 - 🔭 I’m currently working on:[SpendWise: Expense Tracker webapp](https://github.com/AvikshitChanda/Expense-Tracker)
 
-- 🌱 I’m currently learning:**React Native ,Golang**
-
-- 👯 I’m looking to collaborate on :[SpendWise: Expense Tracker webapp](https://github.com/AvikshitChanda/Expense-Tracker)
-
 - 👨‍💻 All of my projects are available at:[Portfolio](https://avikshitchanda.vercel.app/)
 
 - 💬 Ask me about :**Web development using the MERN stack**
